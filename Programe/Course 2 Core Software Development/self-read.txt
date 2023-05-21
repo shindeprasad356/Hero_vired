@@ -1,0 +1,18 @@
+Codecademy course to learn more about GIT and GitHub: 
+
+https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-22-git-and-github-part-ii/modules/wdcp-22-introduction-git-and-github-part-ii/informationals/wdcp-22-introduction-git-and-github-part-ii
+
+
+++++++++++++++++++++++++++++++++
+
+
+Post-Read
+×
+
+Most important and commonly used Git commands for easy reference: 
+
+The provided cheat sheet provides a concise reference for commonly used Git commands, covering topics related to staging, branching, tracking changes, ignoring patterns, rewriting history, and temporary commits.
+
+https://education.github.com/git-cheat-sheet-education.pdf
+
+

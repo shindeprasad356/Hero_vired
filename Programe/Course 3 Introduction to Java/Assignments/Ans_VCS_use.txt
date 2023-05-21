@@ -1,0 +1,5 @@
+1) Managing and Protecting the Source Code: The Version Control System helps manage the software team’s source code by tracking all code modifications and protecting the source code from human error and consequences.
+
+2) Keeping Track of All the Modifications Made to the Code: The team working on the project produces new source codes and makes amendments to the existing code. These changes are recorded for future references and can be used if ever needed in the future to discover the root cause of any particular problem.
+
+3) Comparing Earlier Versions of the Code: As All versions of code are saved in the Version Control System (VCS/ Revision Control System / Configuration Management System / Source Control Management System)This makes it possible for developers to go back at any time and compare the earlier versions of the code to help fix mistakes, while reducing disruption to all team members.

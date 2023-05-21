@@ -1,0 +1,1 @@
+Collaborative coding means multiple developers working on a coding project. Everyone contributes to building the code and checking it for errors. Multiple programmers working on the same code means the completed code will have fewer mistakes and bugs. Furthermore, the code quality will be better, and the projects will be completed sooner.

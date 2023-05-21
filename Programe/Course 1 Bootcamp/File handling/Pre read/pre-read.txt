@@ -1,0 +1,26 @@
+Pre-Reads
+×
+Common file name extensions in Windows
+
+
+File names in Windows consist of two parts, the file name and a three- or four-character extension that identifies the file type. The extension determines which application created or can open the file and which icon to display for the file.
+
+
+
+For more details please follow the below article - 
+
+
+
+https://support.microsoft.com/en-us/windows/common-file-name-extensions-in-windows-da4a4430-8e76-89c5-59f7-1cdbbc75cb01
+https://www.wix.com/blog/2018/07/different-types-of-files/
+https://www.indeed.com/career-advice/career-development/types-of-files
+
++++++++++++++++++++++++++++++++++++++++++
+
+Self-Paced Reading -
+
+
+Learn File Handling in Python: 
+
+https://www.codecademy.com/courses/learn-python/lessons/file-inputoutput/exercises/see-it-to-believe-it
+

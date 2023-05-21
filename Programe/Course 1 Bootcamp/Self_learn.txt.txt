@@ -1,0 +1,110 @@
+Self-Paced Reading and learning resources:-
+
+
+Introduction to Operating System and IT: 
+https://www.codecademy.com/learn/operating-systems-introduction
+https://www.codecademy.com/learn/introduction-to-it
+
+Introduction to Programming Concepts –https://www.codecademy.com/courses/learn-how-to-code/articles/what-is-programming
+https://www.codecademy.com/learn/learn-how-to-code
+
+An extensive and useful resource for the technical glossary: 
+https://www.computerhope.com/jargon/program.htm#
+https://onlinegrad.syracuse.edu/blog/coding-terms-for-beginners/
+
+
+https://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
+
+
++++++++++++++++++++++++++++++++
+
+Overview
+
+Here is a recap of the key points covered in the session. We started the session with a brief Introduction to Python Programming language, where we studied the basic concepts and features of Python, its implementation, and the advantages of Python language over traditional programming languages.  We also discussed the differences between the current version 3.7x and the older version 2.7x of Python. 
+
+
+Refer to the links shared below to know more about - 
+
+
+A quick primer on Python fundamentals for programmers.
+
+https://www.codecademy.com/learn/python-for-programmers
+
+Python Glossary: 
+
+https://www.codecademy.com/article/glossary-python
+
+Python installation Guide: 
+
+https://phoenixnap.com/kb/how-to-install-python-3-windows
+
++++++++++++++++++++++++++++++++
+
+
+Pre-Reads
+×
+https://www.codecademy.com/courses/python-for-programmers/articles/python-style-guide
+https://www.codecademy.com/courses/python-for-programmers/articles/command-line-and-ides
+https://www.codecademy.com/courses/python-for-programmers/articles/program-structure
+https://www.codecademy.com/courses/python-for-programmers/articles/operators-in-python
+
+
+++++++++++++++++++++++++++++++++
+
+
+Additional Reading Material
+×
+
+Learn Python: https://www.codecademy.com/learn/learn-python-3
+
+
+
+Learn Python: https://www.codecademy.com/learn/python-for-programmers
+
++++++++++++++++++++++++++++++++
+
+Post-Reads
+×
+Self-Paced Reading:
+
+
+Codecademy course to Learn Conditionals and Control Flow in Python:
+
+
+
+- https://www.codecademy.com/learn/learn-python/modules/learn-python-conditionals-and-control-flow-u-4
+
+
+++++++++++++++++++++++++++++++++
+
+
+Pre-Reads
+×
+Please click on the link provided below to access and read the article. This article delves into the prevalent issue of primitive obsession in code, which may not be easily recognized by most developers. It highlights the importance of handling this obsession and provides insights on how to recognize and address it through different approaches.
+
+
+
+https://medium.com/the-sixt-india-blog/primitive-obsession-code-smell-that-hurt-people-the-most-5cbdd70496e9
+
+
+
+++++++++++++++++++++++++++++++++++
+
+
+Post-Reads
+×
+Self-Paced Reading: Learn Python -
+
+
+https://learning.oreilly.com/videos/python-for-beginners/27673353VIDEOPAIML/
+
+2. https://www.codecademy.com/learn/learn-intermediate-python-3
+
+
+
+Memory Management in Python: 
+
+
+
+https://www.mikulskibartosz.name/python-memory-management-in-jupyter-notebook/
+https://dev.to/mctechie/python-memory-management-hcb

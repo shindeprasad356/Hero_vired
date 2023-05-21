@@ -1,0 +1,6 @@
+Pre-Reads on Understanding GIT
+×
+
+The article offers a comprehensive explanation of the importance of version control in software development, emphasizing its benefits such as facilitating collaborative work, tracking changes, and allowing for easy reversion to previous versions. The author effectively highlights the significance of version control and how it can streamline the development process. In general, the article is well-written and provides a detailed overview of version control.
+
+https://medium.com/@lanceharvieruntime/version-control-why-do-we-need-it-1681f4888cec
