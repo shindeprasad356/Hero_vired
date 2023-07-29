@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.sql.SQLOutput;
 import java.util.Random;
 import java.util.Scanner;
+
 public class Password {
     private static final String Uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     private static final String Lowercase = "abcdefghijklmnopqrstuvwxyz";
